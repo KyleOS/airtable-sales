@@ -1,6 +1,7 @@
-main: "notebook.ipynb"
+main: "main.ipynb"
 preview: "images/preview.png"
-title: "The Kyso template template"
-description: "The template for the Kyso templates 😉"
+title: "Graphing Sales Data From Airtable"
+description: "This guide will walk you through how to connect to an Airtable base from a Jupyter notebook, pull in your data and plot it, all with python."
 tags:
-  - template
+  - airtable
+  - sales
