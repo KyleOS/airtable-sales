@@ -1,6 +1,9 @@
+organization: "kyleoss-workspace"
+team: general
+type: "jupyter"
 main: "main.ipynb"
 preview: "images/preview.png"
-email: "eoin@kyso.io"
+email: "kyle@kyso.io"
 title: "Graphing Sales Data From Airtable"
 description: "This guide will walk you through how to connect to an Airtable base from a Jupyter notebook, pull in your data and plot it, all with python."
 tags:
